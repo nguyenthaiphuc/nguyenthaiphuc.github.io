@@ -93,3 +93,8 @@ footer {
   border-top: 1px solid #ccc;
   font-size: 0.9rem;
 }
+
+a {
+  text-decoration: none;
+}
+
